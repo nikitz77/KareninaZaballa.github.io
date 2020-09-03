@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Karenina's Github page 
 
 You can use the [editor on GitHub](https://github.com/nikitz77/KareninaZaballa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My interests include the following:
+# Books
+## `Code`
+### Plants!!~
 
-### Markdown
+I have a bit of OCD so I like to make lists for 
+- To-dos for the day
+- Notes for work
+- Post-its so I can make more lists
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sometimes when I need to do lists in a certain order (this is half my day), I have to make numbered lists
+1. Prioritize your life
+2. Sleep
+3. Take care of my plants https://unsplash.com/photos/_6rR_iP06p4 - automatic ![Image of Plant](https://unsplash.com/photos/_6rR_iP06p4)
+4. Take a stroll around the block for 20 mins.
 
-```markdown
-Syntax highlighted code block
+**_Check out my LinkedIn here_:**
+_[Nika's Awesome LinedIn](https://www.linkedin.com/in/karenina-zaballa/)_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikitz77/KareninaZaballa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I've picked the Minimalist theme.
 
 ### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
